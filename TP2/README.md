@@ -32,30 +32,30 @@ Once the script finishes running, it will generate the following files in the sp
 
 1. **composers.txt**: An alphabetically ordered list of composers.
 
-Example content:
-```
-Alessandro Stradella
-Antonio
-Antonio Maria Abbatini
-Bach
-...
-```
+    Example content:
+    ```
+    Alessandro Stradella
+    Antonio
+    Antonio Maria Abbatini
+    Bach
+    ...
+    ```
 
 2. **works-by-period.txt**: A list of musical works ordered by period, with works listed alphabetically within each period.
 
-Example content:
-```
-Barroco: Ab Irato, Die Ideale, S.106, ...
-Medieval: Adagio in B minor, Ballade No.1, ...
-```
+    Example content:
+    ```
+    Barroco: Ab Irato, Die Ideale, S.106, ...
+    Medieval: Adagio in B minor, Ballade No.1, ...
+    ```
 
 3. **number-of-works-by-period.txt**: A count of how many works exist in each musical period.
 
-Example content:
-```
-Barroco: 26
-Clássico: 15
-Medieval: 48
-Renascimento: 41
-...
-```
+    Example content:
+    ```
+    Barroco: 26
+    Clássico: 15
+    Medieval: 48
+    Renascimento: 41
+    ...
+    ```
